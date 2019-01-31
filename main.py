@@ -36,6 +36,7 @@ def getMonitors(html):
     arrReturn=[]
     # dictReturn={}
     for i in items:
+        # print(i,"\n")
         #process an item each loop
         #adds an empty dictionary to the end of the array
         arrReturn.append({})
@@ -43,8 +44,17 @@ def getMonitors(html):
         #adds the name of the item to the dictionary
         arrReturn[-1]["name"]=i.select("h2")[0].string
 
+        #gets url
+        arrReturn[-1]["url"]=i.select("a")[0].get("href")
+
         #adds the price of the item to the dictionary
         arrReturn[-1]["price"]=i.find(attrs={"itemprop": "price"}).get("content")
+
+        #tries to get brand
+        try:
+            arrReturn[-1]["brand"]=re.search(r'^[a-zA-Z]+', arrReturn[-1]["name"]).group(0)
+        except:
+            pass
 
         #tries to get the refresh rate of the monitor
         try:
@@ -76,7 +86,7 @@ def getMonitors(html):
                 #looks for resolution names as backup
                 # arrReturn[-1]["resolution"]=re.search(r'(1080p|Full HD|UHD|QHD|2k|5k)', arrReturn[-1]["name"],re.IGNORECASE).group(0)
                 #converts resolution name to estimated resolution.
-                arrReturn[-1]["resolution"]=["3440x1440","1920x1080","1920x1080","1920x1080","3840x2160","2560x1440","2560x1440","3840x2160","5120x2880"][["wqhd","1080p","full hd","fhd","uhd","qhd","4k","2k","5k"].index(re.search(r'(wqhd|1080p|Full HD|fhd|UHD|QHD|4k|2k|5k)', arrReturn[-1]["name"],re.IGNORECASE).group(0).lower())]
+                arrReturn[-1]["resolution"]=["3440x1440","1920x1080","1920x1080","1920x1080","3840x2160","2560x1440","3840x2160","2560x1440","5120x2880"][["wqhd","1080p","full hd","fhd","uhd","qhd","4k","2k","5k"].index(re.search(r'(wqhd|1080p|Full HD|fhd|UHD|QHD|4k|2k|5k)', arrReturn[-1]["name"],re.IGNORECASE).group(0).lower())]
             except:
                 pass
 
@@ -87,13 +97,31 @@ def getMonitors(html):
             # print(arrReturn[-1])
     return(arrReturn)
 
+def getTV(html):
+    items=html.findAll(attrs={"class": "_2_1T4"})
+    print(items)
+
 def goSearch(category):
-    return({"computer-monitors": getMonitors(simpleGet("https://www.kogan.com/au/shop/tablets-laptops/computer-monitors/?page=200"))}[category])
-    # url=["https://www.kogan.com/au/shop/tablets-laptops/computer-monitors/?page=200"][["computer-monitors"].index(category)]
+    if category == "computer-monitors":
+        return(getMonitors(simpleGet("https://www.kogan.com/au/shop/tablets-laptops/computer-monitors/?page=200")))
+    elif category == "LEDTVs":
+        return(getMonitors(simpleGet("https://www.kogan.com/au/shop/televisions/led-tv/?page=200")))
+    else:
+        strError=str(category)+" is not a valid category."
+        raise KeyError(strError)
 
-
-for i in goSearch("computer-monitors"):
+for i in (getMonitors(simpleGet("https://www.kogan.com/au/shop/televisions/?page=200"))):
     print(i)
+    # try:
+    #     if i["resolution"]=="3840x2160":
+    #         print(i["brand"],i["price"],i["size"],i["url"])
+    # except:
+    #     pass
+    # # try:
+    #     if i["resolution"]=="3840x2160":
+    #         print(i["size"],i["price"])
+    # except:
+    #     pass
 # getPageProducts(simpleGet("https://www.kogan.com/au/shop/tablets-laptops/computer-monitors/?order_by=price&facet-monitor-resolution-filterable=Ultrawide%20QHD&page=10"))
 # counter=0
 # counterInvalid=0
