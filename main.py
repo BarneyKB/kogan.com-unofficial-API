@@ -110,8 +110,12 @@ def goSearch(category):
         strError=str(category)+" is not a valid category."
         raise KeyError(strError)
 
-for i in (getMonitors(simpleGet("https://www.kogan.com/au/shop/televisions/?page=200"))):
+for i in goSearch("computer-monitors"):
     print(i)
+
+
+# for i in (getMonitors(simpleGet("https://www.kogan.com/au/shop/televisions/?page=200"))):
+#     print(i)
     # try:
     #     if i["resolution"]=="3840x2160":
     #         print(i["brand"],i["price"],i["size"],i["url"])
