@@ -48,9 +48,11 @@ def getItems(url):
                     if values[k].string != None:
                         arrReturn[-1][tags[k].string]=values[k].string
                     # print(tags[k].string,values[k].string)
-        print(arrReturn[-1])
-        # break
+        # print(arrReturn[-1])
+    return(arrReturn)
 
 
-
-getItems("https://www.kogan.com/au/shop/tablets-laptops/computer-monitors/?page=200")
+if __name__ == "__main__":
+    print("getting items... this could take a while")
+    for i in getItems("https://www.kogan.com/au/shop/tablets-laptops/computer-monitors/?page=200"):
+        print(i)
