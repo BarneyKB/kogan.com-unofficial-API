@@ -35,11 +35,11 @@ def getItems(url):
     items=simpleGet(url).findAll(attrs={"class": "_2_1T4"})
 
     arrReturn=[]
-    counter=0
+    # counter=0
     for i in items:
-        if counter>5:
-            break
-        counter+=1
+        # if counter>20:
+        #     break
+        # counter+=1
         arrReturn.append({})
         # arrReturn[-1]["price"]=i.find(attrs={"itemprop": "price"}).get("content")
         arrReturn[-1]["url"]=str("https://www.kogan.com"+str(i.select("a")[0].get("href")))
@@ -104,6 +104,9 @@ def getItems(url):
 
 
 if __name__ == "__main__":
+    import json
     print("getting items... this could take a while")
-    for i in getItems("https://www.kogan.com/au/shop/tablets-laptops/computer-monitors/?page=200"):
-        print(i)
+    items=getItems("https://www.kogan.com/au/shop/tablets-laptops/computer-monitors/?page=200")
+
+    with open('data.json', 'w') as outfile:
+        json.dump(items, outfile)
