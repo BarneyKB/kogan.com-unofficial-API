@@ -90,10 +90,10 @@ def getMonitors(html):
             except:
                 pass
 
-        if "monitor" in arrReturn[-1]["name"].lower() or "display" in arrReturn[-1]["name"].lower():
-            pass
-        else:
-            pass
+        # if "monitor" in arrReturn[-1]["name"].lower() or "display" in arrReturn[-1]["name"].lower():
+        #     pass
+        # else:
+        #     pass
             # print(arrReturn[-1])
     return(arrReturn)
 
