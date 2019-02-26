@@ -1,26 +1,42 @@
-# Import the required module for text
-# to speech conversion
-from unknown203 import gTTS
+"""
+This bot listens to port 5002 for incoming connections from Facebook. It takes
+in any messages that the bot receives and echos it back.
+"""
+from flask import Flask, request
+from pymessenger.bot import Bot
 
-# This module is imported so that we can
-# play the converted audio
-import os
+app = Flask(__name__)
 
-# The text that you want to convert to audio
-mytext = 'xd does this work'
+ACCESS_TOKEN = ""
+VERIFY_TOKEN = ""
+bot = Bot(ACCESS_TOKEN)
 
-# Language in which you want to convert
-language = 'en'
 
-# Passing the text and language to the engine,
-# here we have marked slow=False. Which tells
-# the module that the converted audio should
-# have a high speed
-myobj = gTTS(text=mytext, lang=language, slow=False)
+@app.route("/", methods=['GET', 'POST'])
+def hello():
+    if request.method == 'GET':
+        if request.args.get("hub.verify_token") == VERIFY_TOKEN:
+            return request.args.get("hub.challenge")
+        else:
+            return 'Invalid verification token'
 
-# Saving the converted audio in a mp3 file named
-# welcome
-myobj.save("welcome.mp3")
+    if request.method == 'POST':
+        output = request.get_json()
+        for event in output['entry']:
+            messaging = event['messaging']
+            for x in messaging:
+                if x.get('message'):
+                    recipient_id = x['sender']['id']
+                    if x['message'].get('text'):
+                        message = x['message']['text']
+                        bot.send_text_message(recipient_id, message)
+                    if x['message'].get('attachments'):
+                        for att in x['message'].get('attachments'):
+                            bot.send_attachment_url(recipient_id, att['type'], att['payload']['url'])
+                else:
+                    pass
+        return "Success"
 
-# Playing the converted file
-os.system("mpg321 welcome.mp3")
+
+if __name__ == "__main__":
+    app.run(port=5002, debug=True)
