@@ -1,0 +1,30 @@
+With Stand: 410.2~ 540.2 x 611.3 x 200.3mm | Without Stand: 356.2 x 611.3 x 49.1mm
+81.68 x 44.07-57.07 x 29.91cm
+With Stand: 394.3~524.3 x 609.9 x 185mm | Without Stand: 363 x 609.9 x 42.8mm
+With Stand: 356.1~486.1 x 537.8 x 166mm | Without Stand: 322.2 x 537.8 x 42.8mm
+612.6 × 399.0 - 529.0 × 199.7mm
+61.2 x 55.9 x 23.4 cm (Up) 61.2 x 45 x 23.4 cm (Down) (With Stand)  |  61.2 x 36.6 x 4.6 cm (Without Stand)
+With Stand: 825.5 x 571.5 / 459.74 x 231.14mm | Without Stand: 825.5 x 370.84 x 231.14mm
+With Stand: 356.9~486.9 x 538.9 x 180mm | Without Stand: 320.7 x 538.9 x 51.6mm
+383.2 - 513.2 × 558.6 × 199.5mm
+614 x 401-551 x 268mm
+844.4 x 449.01-579.01 x 308.97mm
+659 x 415-565 x 268mm
+737.9 x 582-462 x 309.9mm
+614 x 401-551 x 268mm
+With Stand: 432.0~547.0 x 894 x 226.4mm | Without Stand: 396.8 x 894 x 55.5mm
+With Stand: 323.2~419.6 x 537.8 x 234.8mm | Without Stand: 321.4 x 537.8 x 54.1mm
+406.4 - 536.4 × 614.9 × 199.51mm
+825 x 455-585 x 309mm
+540.5 × 372 - 502.0 × 200.0mm
+355.3-485.3 x 537.6 x 188 (with stand)
+314.3 x 537.6 x 45.2 (without stand)
+553.2 x 409.3-539.3 x 218.2mm
+640 x 415-565 x 268 mm
+398-528 x 567.7 x 200.3 (with stand)
+337.9 x 567.7 x 51.6mm (without stand)
+623 x 433-563 x 218mm
+['With Stand: 369.53 x 566.64 x 205mm | Without Stand: 336.06 x 566.64 x 46.93mm', 'With Stand: 369.53 x 566.64 x 205mm | Without Stand: 336.06 x 566.64 x 46.93mm ']
+566.6 x 515-545.2 x 218.26mm
+
+print all with stand dimensions

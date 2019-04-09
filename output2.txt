@@ -1,0 +1,195 @@
+{'with stand': [837.4, 246.26, 457.4], 'without stand': [837.4, 108.57, 377.59]}
+{'with stand': [837.39, 248.54, 482.53], 'without stand': [837.39, 122.79, 376.66]}
+{'without stand': [815, 363.8, 96.7], 'with stand': [815, 437.4, 285.7]}
+{'without stand': [541.35, 317.06, 31.5], 'with stand': [541.35, 397.69, 189.3]}
+{'with stand': [540.6, 193.9, 397], 'without stand': [540.6, 62, 322.2]}
+{'with stand': [62.7, 18.2, 45]}
+{'with stand': [62.7, 18.2, 45]}
+{'with stand': [626.2, 462.4, 247.7], 'without stand': [626.2, 364.9, 88.3]}
+{'with stand': [706.8, 184.8, 409], 'without stand': [706.8, 111.7, 321.2]}
+{'with stand': [729.5, 534.5, 250.5], 'without stand': [729.5, 427.8, 56.4]}
+{'without stand': [1198.5, 375.6, 158.5], 'with stand': [1198.5, 446, 240]}
+{'with stand': [556.4, 421.64, 182.88], 'without stand': [556.4, 335.28, 38.1]}
+{'with stand': [613, 440.8, 225.5], 'without stand': [613, 363.2, 67.7]}
+{'without stand': [967, 71, 575], 'with stand': [967, 275, 648]}
+{'with stand': [724.3, 522.2, 247.7], 'without stand': [724.3, 428.0, 94.4]}
+{'with stand': [547.7, 418.0, 206.5], 'without stand': [547.7, 320.7, 81.7]}
+vvvvvvvvvvvvvvvvv
+{'without stand': [356.2, 611.3, 49.1], 'with stand': [[410.2, 540.2], 611.3, 200.3]}
+{'without stand': [551, 344, 52], 'with stand': [551, 420, 220]}
+{'without stand': [505, 44, 299], 'with stand': [505, 220, 388]}
+{'with stand': [743, 498, 166], 'without stand': [743, 446, 64]}
+{'with stand': [808.7, 516.0, 309.4], 'without stand': [808.7, 362.8, 167]}
+{'with stand': [547.8, 326.3, 87.6]}
+{'with stand': [61.2, 55.8, 23.4], 'without stand': [61.2, 37.5, 4.5]}
+{'with stand': [615.25, 453, 224]}
+{'with stand': [808.7, 516.0, 309.4]}
+{'with stand': [1203.0, 525.5, 381.6], 'without stand': [1203.0, 369.4, 194.4]}
+{'without stand': [60.9, 5.5, 28.7], 'with stand': [60.9, 18.8, 38.4]}
+{'with stand': [660.9, 468.5, 187.1], 'without stand': [660.9, 381.3, 73.5]}
+{'with stand': [82.8, 45.9, 20.8], 'without stand': [82.8, 37, 4.3]}
+{'with stand': [633, 250, 407], 'without stand': [633, 43, 376]}
+{'without stand': [72.39, 42.42, 4.32], 'with stand': [72.39, 51.82, 22.1]}
+{'without stand': [1198.5, 375.6, 158.5], 'with stand': [1198.5, 446, 240]}
+{'with stand': [529.52, 727.37, 223.73]}
+{'with stand': [69.8, 41.1, 20.8], 'without stand': [69.8, 31.7, 7.6]}
+{'with stand': [625.6, 204.1, 468.7], 'without stand': [625.6, 44, 375.2]}
+{'with stand': [622.9, 367.6, 94.4]}
+{'without stand': [726, 435, 88], 'with stand': [726, 495, 180]}
+{'with stand': [350.6, 532.2, 45.7]}
+{'with stand': [713, 606, 286], 'without stand': [713, 427, 52]}
+{'with stand': [614.2, 462.9, 242.8], 'without stand': [614.2, 362.0, 138.9]}
+{'without stand': [793, 452, 53], 'with stand': [793, 538, 242]}
+{'with stand': [621.2, 541.0, 280.7], 'without stand': [621.2, 366.9, 91.7]}
+{'with stand': [613, 209, 455], 'without stand': [613, 73, 364]}
+{'with stand': [490, 368, 195], 'without stand': [490, 296, 45]}
+{'with stand': [1062.7, 524.6, 314.4], 'without stand': [1062.7, 359.2, 174.4]}
+{'with stand': [540, 483, 202], 'without stand': [540, 325, 45]}
+vvvvvvvvvvvvvvvvv
+{'without stand': [44.07, 57.07, 29.91], 'with stand': [81.68, [44.07, 57.07], 29.91]}
+{'with stand': [698.5, 411.48, 208.28], 'without stand': [698.5, 317.5, 76.2]}
+{'without stand': [335.7, 566.92, 52.07], 'with stand': [421.64, 566.42, 208.28]}
+{'with stand': [540.5, 412, 200]}
+vvvvvvvvvvvvvvvvv
+{'without stand': [363, 609.9, 42.8], 'with stand': [[394.3, 524.3], 609.9, 185]}
+{'with stand': [721, 530, 243]}
+vvvvvvvvvvvvvvvvv
+{'without stand': [322.2, 537.8, 42.8], 'with stand': [[356.1, 486.1], 537.8, 166]}
+{'with stand': [541, 492, 257], 'without stand': [541, 332, 57]}
+{'with stand': [612.14, 208.28, 454.66], 'without stand': [612.14, 73.66, 363.22]}
+vvvvvvvvvvvvvvvvv
+{'without stand': [399.0, 529.0, 199.7], 'with stand': [612.6, [399.0, 529.0], 199.7]}
+vvvvvvvvvvvvvvvvv
+61.2 x 55.9 x 23.4 cm (Up) 61.2 x 45 x 23.4 cm (Down) (With Stand)  |  61.2 x 36.6 x 4.6 cm (Without Stand)
+{'without stand': [503, 316, 50], 'with stand': [503, 376, 213]}
+{'without stand': [542, 92, 322], 'with stand': [542, 187, 416]}
+{'without stand': [539, 419, 179], 'with stand': [539, 324, 45]}
+vvvvvvvvvvvvvvvvv
+{'without stand': [825.5, 370.84, 231.14], 'with stand': [825.5, [571.5, 459.74], 231.14]}
+{'with stand': [565.4, 411.6, 219.3]}
+vvvvvvvvvvvvvvvvv
+{'without stand': [320.7, 538.9, 51.6], 'with stand': [[356.9, 486.9], 538.9, 180]}
+{'with stand': [365.5, 555.4, 62.79]}
+{'with stand': [539.1, 182, 415.3], 'without stand': [539.1, 66.5, 321.5]}
+{'with stand': [400.07, 505.6, 189.16]}
+{'with stand': [359.7, 226.4, 8]}
+vvvvvvvvvvvvvvvvv
+{'without stand': [513.2, 558.6, 199.5], 'with stand': [[383.2, 513.2], 558.6, 199.5]}
+{'with stand': [541, 527, 257], 'without stand': [541, 332, 57]}
+{'with stand': [612, 453, 227], 'without stand': [612, 367, 45]}
+{'without stand': [63.25, 6.13, 37.59], 'with stand': [63.25, 20.22, 46.35]}
+{'with stand': [811.4, 538.9, 298.6], 'without stand': [811.4, 361.9, 123.3]}
+{'with stand': [742, 657, 270], 'without stand': [742, 438, 63]}
+vvvvvvvvvvvvvvvvv
+{'without stand': [401, 551, 268], 'with stand': [614, [401, 551], 268]}
+{'without stand': [634.1, 91.1, 470.5], 'with stand': [634.1, 204.1, 470.5]}
+{'with stand': [61, 45, 21], 'without stand': [61, 36.6, 4.6]}
+{'with stand': [731.1, 620.0, 298.6], 'without stand': [731.1, 428.1, 78.9]}
+{'without stand': [828.5, 41.5, 370.2], 'with stand': [828.5, 279.7, 465.3]}
+{'with stand': [968, 630, 259], 'without stand': [968, 562, 82]}
+{'without stand': [626, 54, 375], 'with stand': [626, 240, 464]}
+{'without stand': [556, 57, 344], 'with stand': [556, 187, 415]}
+{'with stand': [23.3, 37.2, 2.3]}
+vvvvvvvvvvvvvvvvv
+{'without stand': [449.01, 579.01, 308.97], 'with stand': [844.4, [449.01, 579.01], 308.97]}
+{'without stand': [32.2, 3.5, 14.2], 'with stand': [32.2, 10.2, 19.0, 32.2, 10.2, 23.3]}
+{'with stand': [811.4, 361.9, 123.3]}
+{'with stand': [614, 513, 257], 'without stand': [614, 372, 56]}
+{'with stand': [551.4, 338.9, 53.4]}
+vvvvvvvvvvvvvvvvv
+{'without stand': [415, 565, 268], 'with stand': [659, [415, 565], 268]}
+{'without stand': [556.3, 335.3, 37.1], 'with stand': [556.3, 421.6, 182.3]}
+{'with stand': [976, 661, 264], 'without stand': [976, 574, 63]}
+{'with stand': [379, 236, 8.5]}
+{'with stand': [742, 657, 270], 'without stand': [742, 438, 63]}
+{'with stand': [626, 452.9, 181.9], 'without stand': [626, 377.2, 70.8]}
+{'with stand': [724.1, 621.8, 380.6], 'without stand': [724.1, 424.5, 115.6]}
+{'without stand': [721, 434, 76], 'with stand': [721, 525, 223]}
+{'with stand': [712.5, 519.5, 242.8], 'without stand': [712.5, 418.5, 147.5]}
+{'with stand': [52.7, 16.5, 35]}
+{'with stand': [379, 236, 8.5]}
+vvvvvvvvvvvvvvvvv
+{'without stand': [582, 462, 309.9], 'with stand': [737.9, [582, 462], 309.9]}
+{'with stand': [551.4, 400.4, 221]}
+{'without stand': [510.5, 305.6, 38.1], 'with stand': [510.5, 396.2, 182.9]}
+{'without stand': [624.8, 370.3, 40.4], 'with stand': [624.8, 466.1, 272.3]}
+{'without stand': [51.05, 31.5, 5.59], 'with stand': [51.05, 38.61, 18.8]}
+{'with stand': [379, 236, 8.5]}
+{'with stand': [568.4, 358.8, 61.5]}
+{'with stand': [611.9, 543.7, 236.0], 'without stand': [611.9, 366.1, 77.2]}
+{'with stand': [712.5, 519, 276.3], 'without stand': [712.5, 420.7, 62.8]}
+{'with stand': [741.8, 659, 171.2]}
+{'without stand': [701, 99, 317], 'with stand': [701, 252, 516]}
+vvvvvvvvvvvvvvvvv
+{'without stand': [401, 551, 268], 'with stand': [614, [401, 551], 268]}
+{'with stand': [847, 593.5, 266.45]}
+{'with stand': [614.2, 539.9, 280.7], 'without stand': [614.2, 362.8, 95.6]}
+{'without stand': [541, 313, 47], 'with stand': [541, 415, 186]}
+vvvvvvvvvvvvvvvvv
+{'without stand': [396.8, 894, 55.5], 'with stand': [[432.0, 547.0], 894, 226.4]}
+{'with stand': [515.43, 569.94, 226.04]}
+{'with stand': [425.1, 553, 189.12]}
+vvvvvvvvvvvvvvvvv
+{'without stand': [321.4, 537.8, 54.1], 'with stand': [[323.2, 419.6], 537.8, 234.8]}
+{'with stand': [504, 477, 206], 'without stand': [504, 304, 47]}
+{'with stand': [361.6, 556.0, 64.9]}
+{'without stand': [366.7, 613.91, 65.02], 'with stand': [449.58, 614.68, 248.92]}
+{'without stand': [326, 541, 64], 'with stand': [530, 541, 259]}
+vvvvvvvvvvvvvvvvv
+{'without stand': [536.4, 614.9, 199.51], 'with stand': [[406.4, 536.4], 614.9, 199.51]}
+{'with stand': [734.4, 615, 240]}
+{'without stand': [565, 353, 61], 'with stand': [565, 514, 227]}
+{'with stand': [810.6, 456.8, 239.7]}
+{'without stand': [810, 369, 98], 'with stand': [810, 444, 292]}
+{'with stand': [460.6, 613.8, 198.1]}
+{'with stand': [614, 548, 257], 'without stand': [614, 372, 56]}
+{'with stand': [53.2, 40.5, 12.8]}
+{'with stand': [735, 615, 240]}
+{'without stand': [634, 71, 381], 'with stand': [634, 212, 480]}
+vvvvvvvvvvvvvvvvv
+{'without stand': [455, 585, 309], 'with stand': [825, [455, 585], 309]}
+{'with stand': [347, 570, 63]}
+vvvvvvvvvvvvvvvvv
+{'without stand': [372, 502.0, 200.0], 'with stand': [540.5, [372, 502.0], 200.0]}
+{'with stand': [52.5, 56.3, 24.0]}
+{'with stand': [402.6, 626.4, 200.3], 'without stand': [369.1, 626.4, 64.4]}
+{'without stand': [402.6, 626.3, 200.3], 'with stand': [369.1, 626.4, 64.4]}
+{'with stand': [612.6, 453.2, 199.7]}
+{'with stand': [568.4, 358.8, 61.5]}
+vvvvvvvvvvvvvvvvv
+{'without stand': [314.3, 537.6, 45.2], 'with stand': [[355.3, 485.3], 537.6, 188]}
+{'with stand': [976, 661, 264], 'without stand': [976, 574, 63]}
+{'without stand': [304.5, 508, 52.07], 'with stand': [391.16, 508, 205.7]}
+{'with stand': [526.82, 739.58, 218.24]}
+{'with stand': [56.5, 39.4, 24.5]}
+{'with stand': [847, 587, 266.45]}
+{'with stand': [520, 568, 199]}
+vvvvvvvvvvvvvvvvv
+{'without stand': [409.3, 539.3, 218.2], 'with stand': [553.2, [409.3, 539.3], 218.2]}
+{'with stand': [482.6, 749.9, 214.0], 'without stand': [444.6, 749.9, 51.5]}
+{'without stand': [322.07, 531.87, 40.64], 'with stand': [401.32, 530.86, 185.42]}
+{'with stand': [436.4, 740.3, 65.6]}
+{'with stand': [1203.0, 525.5, 381.6], 'without stand': [1203.0, 369.4, 194.4]}
+vvvvvvvvvvvvvvvvv
+{'without stand': [415, 565, 268], 'with stand': [640, [415, 565], 268]}
+vvvvvvvvvvvvvvvvv
+{'without stand': [337.9, 567.7, 51.6], 'with stand': [[398, 528], 567.7, 200.3]}
+vvvvvvvvvvvvvvvvv
+{'without stand': [433, 563, 218], 'with stand': [623, [433, 563], 218]}
+vvvvvvvvvvvvvvvvv
+With Stand: 369.53 x 566.64 x 205mm | Without Stand: 336.06 x 566.64 x 46.93mm, With Stand: 369.53 x 566.64 x 205mm | Without Stand: 336.06 x 566.64 x 46.93mm
+{'with stand': [376.2, 235.2, 8.5]}
+{'with stand': [626, 452.9, 181.9], 'without stand': [626, 377.2, 70.8]}
+{'with stand': [548, 642, 273]}
+{'with stand': [571.2, 616.7, 239.6]}
+{'with stand': [54.98, 18, 37.56]}
+{'with stand': [50.2, 57.9, 21.3], 'without stand': [39.2, 57.9, 21.3]}
+{'with stand': [557.89, 505.87, 268.31]}
+{'with stand': [64.3, 55.2, 21.8]}
+vvvvvvvvvvvvvvvvv
+{'without stand': [515, 545.2, 218.26], 'with stand': [566.6, [515, 545.2], 218.26]}
+{'with stand': [420, 540, 175]}
+{'with stand': [646, 471, 240], 'without stand': [646, 398, 57]}
+{'without stand': [343.4, 576.83, 36.32], 'with stand': [426.72, 576.58, 185.42]}
+{'without stand': [550.5, 85.5, 332.1], 'with stand': [550.5, 204.1, 419.9]}
+{'without stand': [368.04, 622.04, 34.03], 'with stand': [17.9, 622.3, 203.2]}
